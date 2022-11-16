@@ -1,0 +1,13 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\unrealproject\\ue5_arpg\\ue5_cpluse_arpg\\arpgclient\\intermediate\\build\\win64\\unrealeditor\\inc\\arpgclient\\arpgclient.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\unrealproject\\ue5_arpg\\ue5_cpluse_arpg\\arpgclient\\intermediate\\build\\win64\\arpgclienteditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\unrealproject\\ue5_arpg\\ue5_cpluse_arpg\\arpgclient\\intermediate\\build\\win64\\unrealeditor\\development\\arpgclient\\definitions.arpgclient.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

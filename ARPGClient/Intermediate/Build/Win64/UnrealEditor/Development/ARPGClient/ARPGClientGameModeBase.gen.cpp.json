@@ -1,0 +1,19 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\unrealproject\\ue5_arpg\\ue5_cpluse_arpg\\arpgclient\\intermediate\\build\\win64\\unrealeditor\\inc\\arpgclient\\arpgclientgamemodebase.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\unrealproject\\ue5_arpg\\ue5_cpluse_arpg\\arpgclient\\intermediate\\build\\win64\\arpgclienteditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\unrealproject\\ue5_arpg\\ue5_cpluse_arpg\\arpgclient\\intermediate\\build\\win64\\unrealeditor\\development\\arpgclient\\definitions.arpgclient.h",
+            "d:\\unrealproject\\ue5_arpg\\ue5_cpluse_arpg\\arpgclient\\source\\arpgclient\\arpgclientgamemodebase.h",
+            "d:\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "d:\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "d:\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\serverstatreplicator.generated.h",
+            "d:\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\gamemodebase.generated.h",
+            "d:\\unrealproject\\ue5_arpg\\ue5_cpluse_arpg\\arpgclient\\intermediate\\build\\win64\\unrealeditor\\inc\\arpgclient\\arpgclientgamemodebase.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

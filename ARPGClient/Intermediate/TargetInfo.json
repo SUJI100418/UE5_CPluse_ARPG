@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "ARPGClient",
+			"Path": "D:\\UnrealProject\\UE5_ARPG\\UE5_CPluse_ARPG\\ARPGClient\\Source\\ARPGClient.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "ARPGClientEditor",
+			"Path": "D:\\UnrealProject\\UE5_ARPG\\UE5_CPluse_ARPG\\ARPGClient\\Source\\ARPGClientEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

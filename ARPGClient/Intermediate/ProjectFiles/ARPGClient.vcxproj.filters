@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\ARPGClient.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\ARPGClient.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\ARPGClientEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\ARPGClient">
+      <UniqueIdentifier>{F6C911C0-370A-3CC3-A06B-F732C64919E6}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\ARPGClient\ARPGClient.Build.cs">
+      <Filter>Source\ARPGClient</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\ARPGClient\ARPGClient.cpp">
+      <Filter>Source\ARPGClient</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ARPGClient\ARPGClient.h">
+      <Filter>Source\ARPGClient</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ARPGClient\ARPGClientGameModeBase.cpp">
+      <Filter>Source\ARPGClient</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ARPGClient\ARPGClientGameModeBase.h">
+      <Filter>Source\ARPGClient</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
